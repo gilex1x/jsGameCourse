@@ -1,0 +1,11 @@
+body {
+  background-color: whitesmoke;
+}
+
+canvas {
+  height: 500px;
+  width: 500px;
+  border: solid 1px black;
+  position: absolute;
+  left: 25%;
+}
